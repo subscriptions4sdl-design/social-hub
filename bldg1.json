@@ -107,7 +107,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"hub.json\/#start-from-bldg6"
+                 "value":"hub.json#start-from-bldg1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -690,7 +690,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/buddyboardgames.com\/battleship"
+                         "value":"https:\/\/play.famobi.com\/wrapper\/element-blocks\/A1000-10"
                         }]
                 }, 
                 {
@@ -717,7 +717,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/minefun.io\/"
+                         "value":"https:\/\/play.famobi.com\/wrapper\/tower-crash-3d\/A1000-10"
                         }]
                 }, 
                 {
@@ -726,7 +726,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/www.travian.com\/international"
+                         "value":"https:\/\/play.famobi.com\/wrapper\/bubble-tower-3d\/A1000-10"
                         }]
                 }, 
                 {
@@ -735,7 +735,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/www.conflictnations.com\/"
+                         "value":"https:\/\/play.famobi.com\/wrapper\/cannon-balls-3d\/A1000-10"
                         }]
                 }, 
                 {
@@ -744,7 +744,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/oskarstalberg.com\/Townscaper\/"
+                         "value":"https:\/\/play.famobi.com\/wrapper\/zoo-boom\/A1000-10"
                         }]
                 }, 
                 {

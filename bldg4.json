@@ -107,7 +107,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"hub.json\/#start-from-bldg6"
+                 "value":"hub.json#start-from-bldg4"
                 }],
          "type":"tilelayer",
          "visible":true,

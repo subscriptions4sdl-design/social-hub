@@ -107,7 +107,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"hub.json\/#start-from-bldg6"
+                 "value":"hub.json#start-from-bldg6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -540,6 +540,8 @@
          "height":96,
          "id":6,
          "name":"collides",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -690,7 +692,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/buddyboardgames.com\/battleship"
+                         "value":"https:\/\/diep.io\/"
                         }]
                 }, 
                 {
@@ -708,7 +710,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/buddyboardgames.com\/battleship"
+                         "value":"https:\/\/slither.io\/"
                         }]
                 }, 
                 {
@@ -717,7 +719,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/minefun.io\/"
+                         "value":"https:\/\/play.famobi.com\/wrapper\/om-nom-run\/A1000-10"
                         }]
                 }, 
                 {
