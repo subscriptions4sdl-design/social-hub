@@ -1,0 +1,61 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "bldg6.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/neooverse/Virtual Spaces/Tiled Projects/ihc/ihc-bldg/ihc-esg/ihc-esg-meeting.json": {
+            "scale": 0.19791666666666666,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1424.8421052631581,
+                "y": 783.1578947368421
+            }
+        },
+        "D:/neooverse/Virtual Spaces/Tiled Projects/ihc/ihc-bldg/ihc-esg/ihc-esg-meeting.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/neooverse/Virtual Spaces/Tiled Projects/ihc/ihc-bldg/ihc-esg/ihc-esg-meeting.json#ihc-esg-meeting": {
+            "scaleInDock": 1
+        },
+        "D:/neooverse/Virtual Spaces/Tiled Projects/ihc/ihc-bldg/ihc-esg/ihc-esg-meeting.json#ihc-meeting-overlay": {
+            "scaleInDock": 1
+        },
+        "bldg6.json": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 3266.666666666667,
+                "y": 2609.090909090909
+            }
+        },
+        "bldg6.json#Collides": {
+            "scaleInDock": 1
+        },
+        "bldg6.json#bldg6": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 200,
+    "map.lastUsedFormat": "json",
+    "map.width": 400,
+    "openFiles": [
+        "bldg6.json",
+        "D:/neooverse/Virtual Spaces/Tiled Projects/ihc/ihc-bldg/ihc-esg/ihc-esg-meeting.json"
+    ],
+    "project": "neooverse for schools.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "D:/neooverse/Virtual Spaces/Tiled Projects/ihc/ihc-bldg/ihc-esg/ihc-esg-meeting.json",
+        "bldg6.json"
+    ],
+    "tileset.embedInMap": true
+}
